@@ -16,25 +16,25 @@
 			"defaultGradients": false,
 			"gradients": [
 				{
-					"gradient": "linear-gradient(135deg, #7C5A3A 0%, #F6F2EA, #7C5A3A, #B8895B, #3B2A1A 100%)",
+					"gradient": "linear-gradient(135deg, #002F4B 0%, #E8F4F8, #004E7C, #C9A050, #001820 100%)",
 					"name": "Section background gradient",
 					"slug": "gradient-one"
 				}
 			],
 			"palette": [
 				{
-					"color": "#F6F2EA",
-					"name": "Color 1 (Section backgrounds)",
+					"color": "#E8F4F8",
+					"name": "Color 1 (Section backgrounds - Sandy Neutral)",
 					"slug": "color1"
 				},
 				{
-					"color": "#3B2A1A",
-					"name": "Color 2 (Section backgrounds)",
+					"color": "#002F4B",
+					"name": "Color 2 (Section backgrounds - Deep Ocean Blue)",
 					"slug": "color2"
 				},
 				{
-					"color": "#7C5A3A",
-					"name": "Color 3 (Button background)",
+					"color": "#004E7C",
+					"name": "Color 3 (Button background - Marine Blue)",
 					"slug": "color3"
 				},
 				{
@@ -43,14 +43,14 @@
 					"slug": "light"
 				},
 				{
-					"color": "#0d141a",
+					"color": "#001820",
 					"name": "Dark (Text on Light and Color 1)",
 					"slug": "dark"
 				},
 				{
-					"color": "#B8C0CC",
-					"name": "Grey (Form borders)",
-					"slug": "grey"
+					"color": "#C9A050",
+					"name": "Gold (Accent Color)",
+					"slug": "gold"
 				}
 			]
 		},
